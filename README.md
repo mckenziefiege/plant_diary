@@ -19,6 +19,10 @@ This application is made for plant lovers who need an easier way of keeping trac
 - Bcrypt for authentication
 - Bootstrap and custom CSS
 
+## Demo
+
+[Demo Video](https://youtu.be/3fGJ52SJP-4)
+
 ## Screenshots
 
 <img width="1426" alt="screen shot 2018-12-13 at 12 07 02 pm" src="https://user-images.githubusercontent.com/38592156/49955130-1b54e000-fed0-11e8-95c8-5cdbffd29505.png">
